@@ -1,4 +1,4 @@
-Analyze the Employee Attrition dataset with the 1,470 values and 35 columns.
+Analyze the Employee Attrition dataset with the 1,470 values and 35 columns. The key goal is to understand the various perspectives of the employees as provided by the dataset, and further understand the factors potentially cause employees whether stay or leave that peripherally through the diverse visualizations and be concluded with the building of prediction models. 
 
 Visualize the distribution of every column, and further explore the important relations between the column values. 
 
