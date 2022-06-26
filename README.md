@@ -6,4 +6,4 @@ Apply the Logistic Regression  and TensorFlow Neural Network for creating two pr
 
 For the Logistic Regression model, the 87.755% accuracy rate is achieved; and for the Neural Network model, the 87.07% accuracy rate is achieved. 
 
-The project is part of the KCL module 7SSDJ180 Research Project, which the full project will be published in the future. 
+
